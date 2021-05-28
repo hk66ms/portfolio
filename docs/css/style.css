@@ -139,6 +139,9 @@ ul, li {
 }
 
 /*--- about ---*/
+#about{
+	background-color: #eeeeee;
+}
 .profile {
 	display: flex;
 	flex-wrap: wrap;
@@ -165,6 +168,9 @@ ul, li {
 }
 
 /*--- skill ---*/
+#skill{
+	background-color: #ddd;
+}
 .skill-list {
 	display: flex;
 	flex-wrap: wrap;
